@@ -8,7 +8,7 @@ The collected data is then stored in an AWS S3 bucket and uploaded into an RDS.
 
 Libraries used include:
 ~~~~
-* pandas
+pandas
 * requests
 * plotly
 * os
