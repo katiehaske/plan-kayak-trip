@@ -9,14 +9,14 @@ The collected data is then stored in an AWS S3 bucket and uploaded into an RDS.
 Libraries used include:
 ~~~~
 pandas
-* requests
-* plotly
-* os
-* logging
-* scrapy
-* glob
-* boto3
-* create_engine #from sqlalchemy
+requests
+plotly
+os
+logging
+scrapy
+glob
+boto3
+create_engine (from sqlalchemy)
 ~~~~
 
 ## Acknowledgments ✨
